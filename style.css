@@ -205,4 +205,10 @@ color:#71C9CE;
     align-items: center;
 }
 
+.Name{
+    display: flex;
+height: 60vh;
+}
+
+    
 }
